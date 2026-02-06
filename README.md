@@ -1,6 +1,6 @@
 OVERVIEW:
 
-The Cloud Message Scheduler project is designed to help users easily compose a message, choose when it should be sent, and have it delivered automatically via email—like setting a message on a timer. 
+The Cloud Message Scheduler project is designed to help users easily compose a message, choose when it should be sent, and have it delivered automatically via email on scheduled time—like setting a message on a timer. 
 
 User-Friendly Web Interface
 We’ve built a clean and responsive interface where users can type in the recipient’s email, write their message, and pick a date and time to send it. Once submitted, the message instantly appears in a live table for easy tracking.
